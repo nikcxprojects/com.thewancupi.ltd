@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175689320250",
+    "project_id": "app-par-67cfc",
+    "storage_bucket": "app-par-67cfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175689320250:android:9dc2444d52ace059bbb203",
+        "android_client_info": {
+          "package_name": "com.thewancupi.ltd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175689320250-6oir7bhg6o4jn6jpvqgb8fhg7f4ud99s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLWaqO77sKC6mvFCtNZg4pfHaD-PXk3sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175689320250-6oir7bhg6o4jn6jpvqgb8fhg7f4ud99s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
